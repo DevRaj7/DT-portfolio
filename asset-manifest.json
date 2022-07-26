@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/DT-portfolio/static/js/main.7c8a4ecd.chunk.js",
+    "main.js.map": "/DT-portfolio/static/js/main.7c8a4ecd.chunk.js.map",
+    "runtime-main.js": "/DT-portfolio/static/js/runtime-main.992e0909.js",
+    "runtime-main.js.map": "/DT-portfolio/static/js/runtime-main.992e0909.js.map",
+    "static/css/2.679831fc.chunk.css": "/DT-portfolio/static/css/2.679831fc.chunk.css",
+    "static/js/2.d17d22d4.chunk.js": "/DT-portfolio/static/js/2.d17d22d4.chunk.js",
+    "static/js/2.d17d22d4.chunk.js.map": "/DT-portfolio/static/js/2.d17d22d4.chunk.js.map",
+    "index.html": "/DT-portfolio/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/DT-portfolio/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.d17d22d4.chunk.js.LICENSE.txt": "/DT-portfolio/static/js/2.d17d22d4.chunk.js.LICENSE.txt",
+    "static/media/profile-img.5179e446.png": "/DT-portfolio/static/media/profile-img.5179e446.png",
+    "static/media/spaceman.5ec7fcfa.png": "/DT-portfolio/static/media/spaceman.5ec7fcfa.png",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/DT-portfolio/static/media/u-said-it-v13-1167.949cee7e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992e0909.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.d17d22d4.chunk.js",
+    "static/js/main.7c8a4ecd.chunk.js"
+  ]
+}
