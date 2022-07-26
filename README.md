@@ -1,33 +1,3 @@
-# Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
-
-This repository contains starter code for Portfolio Website in ReactJS. <br />
-
-View Demo👇: <br />
-https://react-portfolio-sigma.vercel.app/ <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-
-https://youtu.be/jcohAIaSy2M <br />
-
-----------------------------------------------------------------------------------------------
-### NOTE: 
-[react-particles-js](https://www.npmjs.com/package/react-particles-js) has been deprecated. You can use 
-[react-tsparticles](https://www.npmjs.com/package/react-tsparticles) instead.  <br />
-----------------------------------------------------------------------------------------------
-If you're using NodeJS 17+ versions then you have to edit below line in package.json file👇 <br />
-"start": "react-scripts start", <br />
-Just add --openssl-legacy-provider like this👇 <br />
-"start": "react-scripts --openssl-legacy-provider start", <br />
-
-
-### Images of The Portfolio Website:
-![HOME](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home.png)
-![Intro](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro.png)
-![Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog.png)
-![Home Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home-Mobile.png)
-![Intro Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro-Mobile.png)
-![Intro Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog-Mobile.png)
-
 
 ### Resources Used in This Project
 
