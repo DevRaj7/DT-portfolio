@@ -1,61 +1,64 @@
+// work data
+
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Dev sync",
+        description:"Realtime Editor Sync & collaboration,multiple users can connect and collaborate on a single editor",
+        tags:["react","Web-Sockets","styledComponents","uuid"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://deploy-realtime-sync.herokuapp.com/",
+        github:"https://github.com/DevRaj7/Real_Time_Code_Editor"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"Ant-NLP",
+        description:"Annotation-NLP (Ant NLP) is a text annotation tool that can be used to annotate math word problems using a graph based approach.",
+        tags:["flask","CSS3","vis-network"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://github.com/DevRaj7/Ant-NLP-1",
+        github:"https://github.com/DevRaj7/Ant-NLP-1"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Weather PWA",
+        description:"A progressive Weather App that can be run and installed on any device , works offline.",
+        tags:["service-workers","react","manifest-V3"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://tourmaline-daifuku-e108cd.netlify.app/",
+        github:"https://github.com/DevRaj7/PWA-weather-app"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"YT Bookmarks",
+        description:"A web extension for youtube video player . We can bookmark a particular time stamp and can view it in the future",
+        tags:["react","mainifest-V3"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"",
+        github:"https://github.com/DevRaj7/youtube-bookmark"
+    },
        
-    },{
-        id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
-        
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
-        
-    },
     {
-        id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
+        id:5,
+        name:"Corona Tracker",
+        description:"A covid tracker application that tells about infections, deaths, recovery status of covid-19.",
+        tags:["react","material-UI"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"https://covid19statswebsite.netlify.com/",
+        github:"https://github.com/DevRaj7/Corona-Tracker"
         
     },
+    // {
+    //     id:6,
+    //     name:"Responsive Navigation Menu",
+    //     description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
+    //     tags:["react","react-router","css"],
+        
+    //     demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
+    //     github:"https://github.com/codebucks27/React-responsive-navbar"
+        
+    // },
     
   
 ] 
